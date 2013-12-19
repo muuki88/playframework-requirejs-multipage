@@ -1,0 +1,23 @@
+# Eclipse
+/.classpath
+/.project
+/.settings
+/.target
+/.cache
+/bin
+
+# IntelliJ
+.history
+/.idea
+/*.iml
+/.idea_modules
+
+# Play
+/RUNNING_PID
+logs
+project/project
+project/target
+target
+dist
+/out
+tmp

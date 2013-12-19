@@ -1,0 +1,9 @@
+@(message: String)
+
+@main("This is you!") {
+
+    <h1>This a an awesome Dasbhoard</h1>
+
+    @helper.requireJs(core = routes.Assets.at("javascripts/require.js").url, module = routes.Assets.at("javascripts/dashboard/main").url)
+
+}
