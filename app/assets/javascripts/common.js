@@ -15,7 +15,6 @@
             "math" : "lib/math",
             // Map the dependencies to CDNs or WebJars directly
             "_" : "//cdnjs.cloudflare.com/ajax/libs/underscore.js/1.5.1/underscore-min",
-            // "jquery": "//code.jquery.com/jquery-2.0.3.min"
             "jquery" : "//localhost:9000/webjars/jquery/2.0.3/jquery.min",
             "bootstrap" : "//netdna.bootstrapcdn.com/bootstrap/3.0.0/js/bootstrap.min",
             "jsRoutes" : "//localhost:9000/jsroutes"
